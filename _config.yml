@@ -1,10 +1,10 @@
-url: http://www.alexandkealie.com/
+url: http://alicia.y.eduramirez.com/
 baseurl: ''
 
 # Site settings
-title: "#kealex2016"
-email: wedding@pretzlav.com
-description: "Alex Pretzlav and Kealie Goodwin are getting married in Piedmont, CA on June 18, 2016"
+title: "#ramplan2020"
+email: edu.rh90@gmail.com
+description: "Alicia Planas y Edu Ramírez se casan en Barcelona y Talca el 2020"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,8 +14,8 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/apretz
+  - title: instagram
+    url: http://instagram.com/aliciaplanas
 
 # Build settings
 markdown: kramdown
